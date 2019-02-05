@@ -1,0 +1,23 @@
+[
+  {
+    "bundle_uuid": "xxxx",
+    "name": "Smalltalk",
+    "description": "description",
+    "language": "it",
+    "category": "Smalltalk",
+    "items": [
+      {
+        "title": "I'm disappointed",
+        "default_response": "response text",
+        "category_name": "Smalltalk",
+        "default_suggest": 0,
+        "expressions": [
+          {
+            "text": "xxx",
+            "normalized_text": "xxx"
+          }
+        ]
+      }
+    ]
+  }
+]

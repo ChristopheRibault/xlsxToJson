@@ -1,0 +1,50 @@
+[{
+  "bundle_uuid": "xxxx",
+  "name": "Smalltalk",
+  "description": "description",
+  "language": "it",
+  "category": "Smalltalk",
+  "items": [{
+    "title": "Can you be clearer ?",
+    "default_response": "xxx",
+    "category_name": "smalltalk",
+    "default_suggest": 0,
+    "expressions": [{
+      "text": "Scusa ma non sono veramente riuscito a capirti",
+      "normalized_text": "xxx"
+    }, {
+      "text": "Puoi ripetere?",
+      "normalized_text": "xxx"
+    }, {
+      "text": "Sono confuso. Potresti ripetere ciò che hai detto, per favore?",
+      "normalized_text": "xxx"
+    }, {
+      "text": "Cos'hai detto?",
+      "normalized_text": "xxx"
+    }, {
+      "text": "Non sono proprio riuscito a capire",
+      "normalized_text": "xxx"
+    }]
+  }, {
+    "title": "Can you be clearer ?",
+    "default_response": "xxx",
+    "category_name": "smalltalk",
+    "default_suggest": 0,
+    "expressions": [{
+      "text": "Scusa ma non sono veramente riuscito a capirti",
+      "normalized_text": "xxx"
+    }, {
+      "text": "Puoi ripetere?",
+      "normalized_text": "xxx"
+    }, {
+      "text": "Sono confuso. Potresti ripetere ciò che hai detto, per favore?",
+      "normalized_text": "xxx"
+    }, {
+      "text": "Cos'hai detto?",
+      "normalized_text": "xxx"
+    }, {
+      "text": "Non sono proprio riuscito a capire",
+      "normalized_text": "xxx"
+    }]
+  }]
+}]
