@@ -9,6 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@clevy/nlpapi-internal-sdk": "^1.5.0",
+    "dotenv": "^6.2.0",
+    "knex": "^0.16.3",
+    "lodash": "^4.17.11",
+    "mysql": "^2.16.0",
+    "uuid": "^3.3.2",
     "xlsx": "^0.14.1"
   }
 }
